@@ -1,0 +1,51 @@
+
+.hero {
+    padding: 120px 0;
+    text-align: center;
+    color: #fff;
+}
+*, *:focus {
+    outline: none!important;
+}
+* {
+    
+    box-sizing: border-box;
+}
+div {
+    display: block;
+}
+h1, h2, h3, h4, h5, h6, body, .h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: 'Lato';
+} 
+body {
+    font-size: 14px;
+    line-height: 1.428571429;
+    background-color: #fff;
+}
+:root {
+    --jp-carousel-primary-color: #fff;
+    --jp-carousel-primary-subtle-color: #999;
+    --jp-carousel-bg-color: #000;
+    --jp-carousel-bg-faded-color: #222;
+    --jp-carousel-border-color: #3a3a3a;
+}
+:root {
+    --swiper-navigation-size: 44px;
+}
+:root {
+    --swiper-theme-color: #007aff;
+}
+html {
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+html {
+    -webkit-text-size-adjust: 100%;
+}
+:before, :after {
+    box-sizing: border-box;
+}
+::selection {
+    background-color: #d95c5c;
+    color: #fff;
+}
+
